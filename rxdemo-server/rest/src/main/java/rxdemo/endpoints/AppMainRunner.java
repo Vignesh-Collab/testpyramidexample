@@ -1,4 +1,3 @@
-#To check auto build trigger
 package rxdemo.endpoints;
 
 public class AppMainRunner {
